@@ -1,7 +1,5 @@
 <?php
 
-include "users.sql";
-
 
 function db() {
     //set your configs here

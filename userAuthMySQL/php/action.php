@@ -1,6 +1,6 @@
 <?php
 include "userauth.php";
-include_once "C:/xampp/htdocs/userAuthMySQL/userAuthMySQL/config.php";
+include_once "../config.php";
 
 
 switch(true){
